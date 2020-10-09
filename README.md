@@ -1,5 +1,5 @@
 # Gigabyte-Z390-Gaming-X-5500xt-Hackintosh-OpenCore
-Gigabyte-Z390-Gaming-X + 9600K + RX5500XT
+Gigabyte-Z390-Gaming-X + Intel i5 9500 + AMD Radeon RX 5500XT 8 GB 
 
 
 
