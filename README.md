@@ -38,7 +38,7 @@ Gigabyte-Z390-Gaming-X + 9600K + RX5500XT
 |CPU散热器|九州风神大霜塔| 179|https://u.jd.com/xndQfK|
 |机箱风扇|先马（SAMA）游戏风暴 12CM无光*2|19.8 |https://u.jd.com/dc8JAp|
 |电源| 安钛克(Antec)HCG650金牌全模|579|https://u.jd.com/cs8WeW|
-|其他|妙控板2代|973|https://u.jd.com/ql4yXO|
+|妙控板|妙控板2代|973|https://u.jd.com/ql4yXO|
 
 # 预览
 ![detail](https://note.youdao.com/yws/api/personal/file/WEBbe16f67f213f71bec28cb93a601fa739?method=download&shareKey=0e45f63969983f8c1d422b13b364297e)
