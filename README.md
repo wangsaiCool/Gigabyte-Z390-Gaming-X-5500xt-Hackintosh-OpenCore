@@ -4,7 +4,7 @@ Gigabyte-Z390-Gaming-X + Intel i5 9600K + AMD Radeon RX 5500XT 8 GB
 
 
 # 需求
-在组装的台式机电脑上，使用OpenCore的方式安装黑苹果 MacOS 10.15.* 
+在组装的台式机电脑上，使用OpenCore的方式安装黑苹果 MacOS 10.15.* 下文是安装教程。
 
 # 目标
 
